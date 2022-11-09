@@ -1,0 +1,107 @@
+{
+  "id": "3561256",
+  "name": "Vite+Vue3+Ts",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "765262",
+      "name": "首页",
+      "font_class": "shouye",
+      "unicode": "e612",
+      "unicode_decimal": 58898
+    },
+    {
+      "icon_id": "21226031",
+      "name": "音乐",
+      "font_class": "014-music",
+      "unicode": "e690",
+      "unicode_decimal": 59024
+    },
+    {
+      "icon_id": "28019373",
+      "name": "音乐-06",
+      "font_class": "yinle-06",
+      "unicode": "e79f",
+      "unicode_decimal": 59295
+    },
+    {
+      "icon_id": "9874539",
+      "name": "KHCFDC_退出",
+      "font_class": "tuichu",
+      "unicode": "e6df",
+      "unicode_decimal": 59103
+    },
+    {
+      "icon_id": "17606976",
+      "name": "菜单左",
+      "font_class": "caidanzuo",
+      "unicode": "e6c3",
+      "unicode_decimal": 59075
+    },
+    {
+      "icon_id": "29570562",
+      "name": "菜单打开",
+      "font_class": "caidandakai",
+      "unicode": "e6ac",
+      "unicode_decimal": 59052
+    },
+    {
+      "icon_id": "7594155",
+      "name": "24gf-play",
+      "font_class": "24gf-play",
+      "unicode": "ea82",
+      "unicode_decimal": 60034
+    },
+    {
+      "icon_id": "11007849",
+      "name": "暂停",
+      "font_class": "zanting",
+      "unicode": "e61c",
+      "unicode_decimal": 58908
+    },
+    {
+      "icon_id": "1344",
+      "name": "夜景",
+      "font_class": "yejing",
+      "unicode": "e600",
+      "unicode_decimal": 58880
+    },
+    {
+      "icon_id": "2250262",
+      "name": "sun",
+      "font_class": "weibiaoti-",
+      "unicode": "e636",
+      "unicode_decimal": 58934
+    },
+    {
+      "icon_id": "4139287",
+      "name": "夜晚月亮",
+      "font_class": "lkingboyewanyueliang",
+      "unicode": "e602",
+      "unicode_decimal": 58882
+    },
+    {
+      "icon_id": "6282758",
+      "name": "密码显示",
+      "font_class": "mimaxianshi",
+      "unicode": "e6b4",
+      "unicode_decimal": 59060
+    },
+    {
+      "icon_id": "24178916",
+      "name": "密码显示22px默认",
+      "font_class": "mimaxianshi22pxmoren",
+      "unicode": "e6a3",
+      "unicode_decimal": 59043
+    },
+    {
+      "icon_id": "24178917",
+      "name": "密码隐藏22px",
+      "font_class": "mimayincang22px",
+      "unicode": "e6a4",
+      "unicode_decimal": 59044
+    }
+  ]
+}
